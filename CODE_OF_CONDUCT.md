@@ -55,13 +55,23 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-## 7. Reporting Guidelines
+## 7. Reporting Guidelines and options
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify Dr. DeCaluwe as soon as possible (decaluwe@mines.edu).  You can report by emailing directly, or submitting a complaint via [google form](https://docs.google.com/forms/d/e/1FAIpQLSc8ATTkx-tYL4IDD9ij7GMTX5P3UvaXZeD34gPcfg2L22AEHw/viewform?usp=pp_url), which gives you the option of either incluing your contact information or reporting anonymously.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify Dr. DeCaluwe or other responsible parties as soon as possible. 
 
+### a. Report Directly to Dr. DeCaluwe
 
+#### i. Via email
+You can report by emailing directly (decaluwe@mines.edu).
 
+#### ii. Via Google form (anonymous option)
+You can also report a violation by submitting a complaint via [google form](https://docs.google.com/forms/d/e/1FAIpQLSc8ATTkx-tYL4IDD9ij7GMTX5P3UvaXZeD34gPcfg2L22AEHw/viewform?usp=pp_url).
+
+This form gives you the option of either incluing your contact information or reporting anonymously.
+
+### b. Other reporting options
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+
 
 ## 8. Addressing Grievances
 
