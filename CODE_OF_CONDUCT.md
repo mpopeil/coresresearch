@@ -57,7 +57,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. decaluwe@mines.edu.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify Dr. DeCaluwe as soon as possible (decaluwe@mines.edu).  You can report by emailing directly, or submitting a complaint via [google form](https://docs.google.com/forms/d/e/1FAIpQLSc8ATTkx-tYL4IDD9ij7GMTX5P3UvaXZeD34gPcfg2L22AEHw/viewform?usp=pp_url), which gives you the option of either incluing your contact information or reporting anonymously.
 
 
 
