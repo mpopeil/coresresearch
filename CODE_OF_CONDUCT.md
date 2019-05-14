@@ -9,10 +9,11 @@
 - [Standards (Relationship to Colorado School of Mines Policies)](#standards)
 - [Expected Behavior](#expected-behavior)
 - [Unacceptable Behavior](#unacceptable-behavior)
+- [Weapons Policy](#weapons-policy)
 - [Reporting](#reporting-guidelines-and-options)
 
     -[Direct Reporting to the PI](#a.-report-directly-to-dr.-decaluwe)
-    
+
     -[Reporting to Mines Personnel](#b.-other-reporting-options)
 
 - [Consequences and Enforcement](#consequences-of-unacceptable-behavior-and-enforcement)
@@ -50,7 +51,12 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 CORES Research group operates within the confines of the Colorado School of Mines (Mines), and is bound by all state and federal laws which apply thereunto.  For any instance in which the policies outlined herein conflict with Mines policies and regulations, Mines policies will supercede those listed here.  These include, in particular, Mines's [Title IX](https://www.mines.edu/title-ix/) and [Title VII](https://www.mines.edu/equal-opportunity/) policies.
 
-### b.
+### b. Mandatory reporting
+
+Under Colorado State and US Federal laws, Dr. DeCaluwe is a mandatory reporter.  This means that he is legally required to report any suspected sexual misconduct, including assault/violence, abuse harassment, and/or discrimination, the appropriate authorities in the Title IX office at Mines.  
+
+While he will make any and all efforts to maintain anonymity (i.e. you identify will protected, if at all possible), he cannot therefore promise that any reports will be maintained as confidential.  As described below in the [reporting options](#reporting-guidelines-and-options), anonymous reporting options are available to those for whome anonymity is a significant priority. 
+
 ## Expected Behavior
 
 The following behaviors are expected and requested of all community members:
@@ -77,6 +83,11 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Deliberate intimidation, stalking or following (online or in person).
  * Advocating for, or encouraging, any of the above behavior.
  * Sustained disruption of community events, including talks and presentations.
+
+
+## Weapons Policy
+
+No weapons will be allowed at CORES Research Group events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
 
 
 ## Reporting Guidelines and Options
