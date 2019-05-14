@@ -18,6 +18,7 @@
 
 - [Consequences and Enforcement](#consequences-of-unacceptable-behavior-and-enforcement)
 - [Addressing Greivances](#addressing-greivances)
+- [Reviewing, Updating, and Approving](#reviewing-updating-and-approving)
 - [Contact Information](#contact-information)
 - [License and Attribution](#license-and-attribution)
 
@@ -143,10 +144,19 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Dr. DeCaluwe with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
 
+## Reviewing, Updating, and Approving
+
+This Code of Conduct shall be reviewed and updated once per year, at the beginning of each academic year (or whenever the signer first joins the group, for new members).  All group members shall submit approval of this code of concudct by submitting a pull request which adds their name and the current date in the section titled [Signatories](#signatories).
+
+Reviewing and updating the code shall be accomplished via commits to a group member's private GitHub repo, followed by a pull request (PR) to the [group repository](https://github.com/coresresearch/coresresearch).  All group members must eitehr (i) approve of any suggested changes, or (ii) provide a comment on the PR to express any reservations and/or suggest amendments.
 
 ## Contact Information
 
 For any questions or suggestions regarding this Code of Conduct, please contact the PI, Dr. Steven C. DeCaluwe, directly, via email at  decaluwe@mines.edu.
+
+## Signatories
+
+By adding our name and date (via pull request) once per year, the undersigned hereby approve of the foregoing code of conduct and agree to the expectations, policies, and procedures aoutline therein.
 
 ## License and attribution
 
