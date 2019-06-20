@@ -43,7 +43,7 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 ## Scope
 
-We expect all research group participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.  It applies to the behavior of all group participants, ranging from undergraduate researchers to graduate researchers, to the group PI (Steven DeCaluwe).
+We expect all research group participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.  It applies to the behavior of all group participants, ranging from undergraduate researchers to graduate researchers, and to the group PI (Steven DeCaluwe).
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
