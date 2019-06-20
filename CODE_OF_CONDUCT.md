@@ -1,7 +1,7 @@
 # CORES Research Group Code of Conduct
 ## Adapted from the [Citizen Code of Conduct ](http://citizencodeofconduct.org/)
 
-## Table of Contents
+## Contents
 
 - [Purpose](#purpose)
 - [Open Culture Citizenship](#open-culture-citizenship)
