@@ -24,7 +24,7 @@
 
 ## Purpose
 
-A primary goal of CORES Research Group is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of personal background or characteristics.  
+A primary goal of CORES (**CO**lorado **R**eacting flows, **E**lectrochemistry and **S**urface science) Research Group is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of personal background or characteristics.  
 
 Discrimination on the basis of age, ancestry, creed, marital status, race, ethnicity, religion (or lack thereof), national origin, sex, gender, gender identity, gender expression, disability, sexual orientation, genetic information, veteran status, or military service is unlawful and therefore prohibited.  This prohibition applies to all students, faculty, staff, contractors, administrators, trustees, visitors, and volunteers.
 
