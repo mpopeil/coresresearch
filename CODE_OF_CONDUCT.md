@@ -56,7 +56,7 @@ CORES Research group operates within the confines of the Colorado School of Mine
 
 Under Colorado State and US Federal laws, Dr. DeCaluwe is a mandatory reporter.  This means that he is legally required to report any suspected sexual misconduct, including assault/violence, abuse harassment, and/or discrimination, the appropriate authorities in the Title IX office at Mines.  
 
-While he will make any and all efforts to maintain anonymity (i.e. you identify will protected, if at all possible), he cannot therefore promise that any reports will be maintained as confidential.  As described below in the [reporting options](#reporting-guidelines-and-options), anonymous reporting options are available to those for whome anonymity is a significant priority.
+While he will make any and all efforts to maintain anonymity (i.e. you identify will protected, if at all possible), he cannot therefore promise that any reports will be maintained as confidential.  As described below in the [reporting options](#reporting-guidelines-and-options), anonymous reporting options are available to those for whom anonymity is a significant priority.
 
 ## Expected Behavior
 
