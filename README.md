@@ -1,6 +1,6 @@
 # CORES Research Group
 
-Repository for CORES (**CO**lorado **R**eacting flowes, **E**lectrochemistry, and **S**urface Science) Research Group managmement - protocols, routines, norms, and expectations.
+Repository for CORES (**CO**lorado **R**eacting flows, **E**lectrochemistry, and **S**urface Science) Research Group managmement - protocols, routines, norms, and expectations.
 
 ## Resources:
 ### Lab Handbook 
