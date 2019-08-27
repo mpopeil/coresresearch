@@ -159,6 +159,7 @@ For any questions or suggestions regarding this Code of Conduct, please contact 
 By adding our name and date (via pull request) once per year, the undersigned hereby approve of the foregoing code of conduct and agree to the expectations, policies, and procedures outlined herein.
 
 Corey R. Randall 8-27-19
+Gandhali Kogekar 8-27-19
 
 ## License and attribution
 
