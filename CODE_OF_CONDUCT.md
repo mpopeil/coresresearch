@@ -170,6 +170,8 @@ Daniel Korff 8-28-19
 
 Zoey Huey 9-3-19
 
+Melodie Glasser 10-07-2019
+
 ## License and attribution
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
