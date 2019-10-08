@@ -160,9 +160,13 @@ By adding our name and date (via pull request) once per year, the undersigned he
 
 Corey R. Randall 8-27-19
 
+Peter J. Weddle  8-27-19
+
 Gandhali Kogekar 8-27-19
 
 Benjamin Kee 8-27-19
+
+Daniel Korff 8-28-19
 
 Zoey Huey 9-3-19
 
